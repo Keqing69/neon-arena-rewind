@@ -210,3 +210,6 @@ __marimo__/
 *.mp3
 *.wav
 *.ogg
+
+# macOS
+.DS_Store
